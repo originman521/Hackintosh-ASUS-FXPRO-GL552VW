@@ -79,7 +79,7 @@ Sadly! I am!  I think airdrop is essential. So I buy a Broadcom 1820A.I will als
   <br>
   But I see the 1820A guide of heiguoxiaobing,Very well received 
   <br>
-  （https://blog2.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html）
+  （https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html）
   <br>
   no english,lol .
   <br>
