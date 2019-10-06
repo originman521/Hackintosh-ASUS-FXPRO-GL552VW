@@ -1,6 +1,6 @@
 # Hackintosh-ASUS-FXPRO-GL552VW
     This is for Asus Flying Fortress FX-PRO 2016（I7-6700HQ HD530）
-    This guide maybe help you run Mojave（10.14.0-10.14.6） & High Sierra（10.13.6） on your laptop
+    This guide maybe help you run Catalina (Beta 10.15) Mojave（10.14.0-10.14.6） & High Sierra（10.13.6） on your laptop
     And I will list all the problem while the installation
 <br> 
 
