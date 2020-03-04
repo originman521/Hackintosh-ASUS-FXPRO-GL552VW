@@ -14,7 +14,7 @@ First I will list my configuration of my laptop
 AppleAlc-1.4.6<br>
 Cloverbootloader-5103<br>
 usb重新定制，优化睡眠<br>
-解锁本机CFG，取消勾选内核电源补丁选项，哟ing上原生电源管理(过两天补上教程及工具)
+解锁本机CFG，取消勾选内核电源补丁选项，用上原生电源管理(过两天补上教程及工具)
 macos Catalina10.15.3正式版（理论上之前所有版本的系统均可安装，无需专用install.plist）<br>
 <br>新增功能内容：增加HDMI输出，但有缺陷，必须开机后插入hdmi,如果开机带外接显示器开机内屏会只有背光，有能力的可以自行解决，联系我更改
 <br>
