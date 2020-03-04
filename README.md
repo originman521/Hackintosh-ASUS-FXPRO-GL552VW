@@ -4,7 +4,6 @@
     And I will list all the problem while the installation
 <br> 
 First I will list my configuration of my laptop<br>
-
 写的比较乱，我就不排版了 比较忙
 <br>
 教程写的比较少，可能有写的不好的地方，如有疑问，添加我的群组，为你解惑753734303
