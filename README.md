@@ -124,6 +124,6 @@ Using Hackintool fix sleep mode , test,sleep is work very well .Hibernation also
 <br>
 如果你支持我的努力，那就请我喝杯咖啡吧！<br>
 ![支付宝打赏](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/alipay.jpg?raw=true)
-![wechat打赏](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/wechat.jpg?raw=true)
-![外观1](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%822.png?raw=true)<br>
-![外观2](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%821.png?raw=true)<br>
+![wechat打赏](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/wechat.jpg?raw=true)<br>
+![外观1](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%822.png?raw=true)
+![外观2](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%821.png?raw=true)
