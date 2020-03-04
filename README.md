@@ -120,7 +120,7 @@ Install NoTouchID.kext
   
 # Sleep
 Using Hackintool fix sleep mode , test,sleep is work very well .Hibernation also work.
------------------------------- Not compelete---------------------------
+------------------------------ Not compelete---------------------------<br>
 如果你支持我的努力，那就请我喝杯咖啡吧！<br>
 ![支付宝打赏](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/alipay.jpg?raw=true)
 ![wechat打赏](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/wechat.jpg?raw=true)
