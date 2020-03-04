@@ -9,12 +9,12 @@
 First I will list my configuration of my laptop
 写的比较乱，我就不排版了 比较忙
 <br>
-2020-3-4日
-更新内容lilu-1.4.1
-AppleAlc-1.4.6
-Cloverbootloader-5103
-macos Catalina10.15.3正式版（理论上之前所有版本的系统均可安装）
-新增功能内容：增加HDMI输出，但有缺陷，必须开机后插入hdmi,如果开机带外接显示器开机内屏会只有背光，有能力的可以自行解决，联系我更改
+2020-3-4日<br>
+更新内容lilu-1.4.1<br>
+AppleAlc-1.4.6<br>
+Cloverbootloader-5103<br>
+macos Catalina10.15.3正式版（理论上之前所有版本的系统均可安装）<br>
+<br>新增功能内容：增加HDMI输出，但有缺陷，必须开机后插入hdmi,如果开机带外接显示器开机内屏会只有背光，有能力的可以自行解决，联系我更改
 <br> 
 
 |HARDWARE | DETAIL |
