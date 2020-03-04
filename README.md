@@ -4,6 +4,7 @@
     And I will list all the problem while the installation
 <br> 
 First I will list my configuration of my laptop<br>
+ ![image](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%822.png?raw=true)
 ![外观1](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%822.png?raw=true)<br>
 ![外观2](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%821.png?raw=true)<br>
 写的比较乱，我就不排版了 比较忙
