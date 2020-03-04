@@ -9,6 +9,7 @@
 First I will list my configuration of my laptop
 写的比较乱，我就不排版了 比较忙
 <br>
+教程写的比较少，可能有写的不好的地方，如有疑问，添加我的群组，为你解惑753734303
 2020-3-4日<br>
 更新内容lilu-1.4.1<br>
 AppleAlc-1.4.6<br>
