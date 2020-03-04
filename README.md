@@ -3,10 +3,9 @@
     This guide maybe help you run Catalina (Beta 10.15) Mojave（10.14.0-10.14.6） & High Sierra（10.13.6） on your laptop
     And I will list all the problem while the installation
 <br> 
-
-![](https://timgsa.baidu.com/timgimage&quality=80&size=b9999_10000&sec=1568630772264&di=6d4d76d259007c763e302354403cbc64&imgtype=0&src=http%3A%2F%2Fimage3.buy.ccb.com%2Fimages%2F68397788%2F1455696762755_4.jpg)  
-
-First I will list my configuration of my laptop
+First I will list my configuration of my laptop<br>
+![jiqi1](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%821.png?raw=true)<br>
+![jiqi2](https://github.com/originman521/Hackintosh-ASUS-FXPRO-GL552VW/blob/master/EFI/%E5%A4%96%E8%A7%822.png?raw=true)<br>
 写的比较乱，我就不排版了 比较忙
 <br>
 教程写的比较少，可能有写的不好的地方，如有疑问，添加我的群组，为你解惑753734303
